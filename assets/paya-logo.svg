@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <!-- Paya logo, Paya Safe Identity palette. Master file: edit here, then re-export the PNGs. -->
+  <!-- Ivory tile (remove this rect for a transparent mark) -->
+  <rect width="1024" height="1024" fill="#F7F5F0"/>
+  <!-- Bowl / jar base: Stone -->
+  <path d="M272 632 A239.5 165 0 0 0 751 632 L641 632 A129 55 0 0 1 383 632 Z" fill="#8C8780"/>
+  <!-- Frame: Ink -->
+  <rect x="199" y="199" width="626" height="128" rx="28" fill="#141414"/>
+  <rect x="272" y="320" width="111" height="313" fill="#141414"/>
+  <rect x="641" y="320" width="110" height="313" fill="#141414"/>
+  <!-- Coin: Gold, euro: Ink -->
+  <circle cx="512" cy="512" r="92" fill="#C49A3A"/>
+  <text x="512" y="512" dy="0.35em" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="130" fill="#141414">€</text>
+</svg>
